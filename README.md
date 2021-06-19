@@ -1,4 +1,7 @@
-# Marlin 3D Printer Firmware
+# My tweaks to the Marlin 3D Printer Firmware
+
+Some config for the 3D printer I didn't know I needed, with plenty of inspiration from others to get it going.
+The printer is a Tevo tarantula that was modified somewhat by the previous owner. One of the stepper motor drivers on the main board appeared to not be working, so I've replaced that with a MKS GEN L v2.1. This seems to need some different configuration.
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
